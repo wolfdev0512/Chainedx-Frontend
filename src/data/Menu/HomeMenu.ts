@@ -1,4 +1,4 @@
-export const navLink = [
+export const HomeMenu = [
   { name: "Home", link: "#home" },
   { name: "about", link: "#about" },
   { name: "how it work", link: "#how_it_work" },
